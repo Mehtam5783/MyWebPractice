@@ -1,1 +1,1 @@
-# MyWebPractice
+# MyProjects
